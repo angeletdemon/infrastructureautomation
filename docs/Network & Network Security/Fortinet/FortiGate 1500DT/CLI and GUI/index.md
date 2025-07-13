@@ -1,1 +1,0 @@
-# FortiGate CLI and GUI Basics
